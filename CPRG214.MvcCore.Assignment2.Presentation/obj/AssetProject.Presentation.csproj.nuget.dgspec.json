@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Presentation\\AssetProject.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.BLL\\AssetProject.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.BLL\\AssetProject.BLL.csproj",
+        "projectName": "AssetProject.BLL",
+        "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.BLL\\AssetProject.BLL.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Data\\AssetProject.Data.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Data\\AssetProject.Data.csproj"
+              },
+              "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Data\\AssetProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Data\\AssetProject.Data.csproj",
+        "projectName": "AssetProject.Data",
+        "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Data\\AssetProject.Data.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj",
+        "projectName": "AssetProject.Domain",
+        "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Presentation\\AssetProject.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Presentation\\AssetProject.Presentation.csproj",
+        "projectName": "AssetProject.Presentation",
+        "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Presentation\\AssetProject.Presentation.csproj",
+        "packagesPath": "C:\\Users\\mabservi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mabservi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.BLL\\AssetProject.BLL.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.BLL\\AssetProject.BLL.csproj"
+              },
+              "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Manpower\\Documents\\GitHub\\Assignment2\\Assignment2_Rev1.0\\CPRG214.MvcCore.Assignment2\\CPRG214.MvcCore.Assignment2.Domain\\AssetProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.BLL.deps.json
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.BLL.runtimeconfig.json
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.BLL.runtimeconfig.dev.json
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.BLL.dll
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.BLL.pdb
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.Data.dll
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.Domain.dll
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.Data.pdb
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\bin\Debug\netcoreapp3.1\AssetProject.Domain.pdb
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.csprojAssemblyReference.cache
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.AssemblyInfoInputs.cache
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.AssemblyInfo.cs
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.csproj.CopyComplete
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.dll
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.pdb
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.BLL\obj\Debug\netcoreapp3.1\AssetProject.BLL.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\AssetProject.Data.deps.json
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\AssetProject.Data.runtimeconfig.json
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\AssetProject.Data.runtimeconfig.dev.json
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\AssetProject.Data.dll
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\AssetProject.Data.pdb
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\AssetProject.Domain.dll
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\AssetProject.Domain.pdb
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.csprojAssemblyReference.cache
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.AssemblyInfoInputs.cache
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.AssemblyInfo.cs
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.csproj.CopyComplete
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.dll
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.pdb
+C:\Users\Manpower\Documents\GitHub\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\AssetProject.Data.genruntimeconfig.cache
